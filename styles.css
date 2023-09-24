@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;0,1000;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900;1,1000&family=Lexend:wght@100;200;300;400;500;600;700;800;900&family=Nanum+Gothic:wght@400;700;800&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    width: 100%;
+    position: relative;
+}
+
+header video{
+    width: 100%;
+}
+
+header div{
+    position: absolute;
+    top: 5%;
+    left: 6%;
+    color: #eba941;
+    font-size: 35px;
+    font-family: 'Lexend', sans-serif;
+
+}
+
+header div a{
+    color: #eba941;
+    text-decoration: none;
+    font-family: 'Lexend', sans-serif;
+    z-index: 1;
+    position: relative;
+}
+
+header div a:hover{
+    text-decoration:underline;
+}
+
+
+/* festime */
+.festime{
+    background-color: #323232;
+    margin-top: -5px;
+    position: relative;
+}
+.festime img{
+    width: 100%;
+}
+
+.festime video{
+    position: absolute;
+    width: 36%;
+    top: 22.8%;
+    left: 4.5%;
+    
+}
+
+.eterna img{
+    width: 100%;
+}
+
+.planifica img{
+    width: 100%;
+}
+
+.planifica{
+    margin-top: -6px;
+}
+
+.embarazo{
+    margin-top: -6px;
+}
+
+.embarazo img{
+    width: 100%;
+}
+
+.lori{
+    margin-top: -6px;
+}
+
+.lori img{
+    width: 100%;
+}
+
+.congreso{
+    margin-top: -6px;
+}
+
+.congreso img{
+    width: 100%;
+}
+

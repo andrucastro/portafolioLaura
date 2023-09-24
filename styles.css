@@ -37,6 +37,10 @@ header div a:hover{
     text-decoration:underline;
 }
 
+.gdbanner{
+    margin-top: -6px;
+}
+
 
 /* festime */
 .festime{
@@ -51,8 +55,8 @@ header div a:hover{
 .festime video{
     position: absolute;
     width: 36%;
-    top: 22.8%;
-    left: 4.5%;
+    top: 19.2%;
+    left: 3.4%;
     
 }
 

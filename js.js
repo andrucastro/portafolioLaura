@@ -25,7 +25,7 @@ function smoothScrollTo(targetPosition, duration) {
   function scrollToOnPageLoad() {
     // Specify the target scroll position (in pixels) and duration (in milliseconds)
     const targetPosition = 1000;
-    const duration = 1000; // 1000 milliseconds (1 second)
+    const duration = 600; // 1000 milliseconds (1 second)
   
     // Scroll smoothly to the target position
     smoothScrollTo(targetPosition, duration);

@@ -125,15 +125,4 @@ header div a:hover{
 
 /* ******************************* video ******************************* */
 
-.video{
-    display: flex;
-    height:40rem;
-    padding: 2% 10%;
-    justify-content: center;
-}
-
-iframe{
- width: 60%;
- height: 100%;
-}
 

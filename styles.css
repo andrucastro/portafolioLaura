@@ -33,6 +33,21 @@ header div a{
     position: relative;
 }
 
+.linkedin{
+    font-size: 25px;
+    color: #eba941;
+    text-decoration: none;
+    font-family: 'Lexend', sans-serif;
+    position: absolute;
+    z-index: 2;
+    bottom: 7%;
+    left: 5.3%;
+}
+
+.linkedin:hover{
+   text-decoration: underline;
+}
+
 header div a:hover{
     text-decoration:underline;
 }
@@ -91,6 +106,13 @@ header div a:hover{
 
 .congreso{
     margin-top: -6px;
+    position: relative;
+}
+
+.congreso video{
+    position: absolute;
+    width: 100%;
+    top: 13.0%;
 }
 
 .congreso img{

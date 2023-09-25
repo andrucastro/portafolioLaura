@@ -6,6 +6,10 @@
     box-sizing: border-box;
 }
 
+body{
+    background-color: black;
+}
+
 header{
     width: 100%;
     position: relative;
@@ -117,5 +121,19 @@ header div a:hover{
 
 .congreso img{
     width: 100%;
+}
+
+/* ******************************* video ******************************* */
+
+.video{
+    display: flex;
+    height:40rem;
+    padding: 2% 10%;
+    justify-content: center;
+}
+
+iframe{
+ width: 60%;
+ height: 100%;
 }
 
